@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# JavaScript / Node 
+node_modules/
+
+# IDE/editor noise
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
